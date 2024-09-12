@@ -1,4 +1,4 @@
-# To-Do Application API
+# VibeShare
 
 A social media platform built with the MERN stack (MongoDB, Express, React, Node.js). VibeShare lets users connect, post, like, and comment in real-time, offering a dynamic and interactive experience.
 
